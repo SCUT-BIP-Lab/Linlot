@@ -1,3 +1,3 @@
-# LS-Net
+# Linlot
 Rethinking Limb Connection Relationships and Shallow Features for Human Pose Estimation
 Coming soon....
